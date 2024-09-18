@@ -1,0 +1,9 @@
+# Recebe os números do usuário
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+# Calcula a soma
+soma = num1 + num2
+
+# Imprime a soma
+print("A soma dos números é:", soma)
